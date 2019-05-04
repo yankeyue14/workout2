@@ -1,0 +1,9 @@
+Package: binomial
+Title: Binomial package
+Version: 0.0.0.9000
+Authors@R: person(“Yanke”, “Yue”, email = “yankeyue@berkeley.edu”, role = c("aut", "cre"))
+Description: This package calculates probabilities of binomial random variable
+Depends: R (>= 3.5.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
